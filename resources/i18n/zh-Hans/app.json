@@ -4,18 +4,18 @@
     "change_user": "切换用户",
     "config": "配置",
     "settings": "设置",
-    "icon_components": "头像组件",
+    "icon_components": "图标组件",
     "other": "其他",
     "custom_image": "自定义",
     "frame": "边框",
-    "character": "人物",
+    "character": "图标",
     "background": "背景",
-    "new_icon": "新投降",
-    "apply": "应用到用户",
+    "new_icon": "新图标",
+    "apply": "应用",
     "select_game": "选择游戏",
-    "available_images": "可用图像",
-    "collection_load": "旧头像",
-    "confirm_delete": "删除选中"
+    "available_images": "可用",
+    "collection_load": "旧图标",
+    "confirm_delete": "删除"
   },
   "settings": {
     "title": "设置",
@@ -33,7 +33,7 @@
     },
     "toggles": {
       "label": "设置",
-      "debug": "调试",
+      "debug": "调试模式",
       "overwrite": "更新时覆盖旧文件.",
       "about": "关于"
     },
