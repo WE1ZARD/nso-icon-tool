@@ -23,13 +23,13 @@
       "label": "更新图标库",
       "yes": "已找到图标库",
       "no": "未找到图标库",
-      "last_checked": "最近检查: {}",
+      "last_checked": "上次查看: {}",
       "current_version": "最新版本: {} ({})",
-      "check_updates": "检查更新",
+      "check_updates": "查看更新",
       "update_available": "可用更新: {} ({})",
-      "download_update": "下载并应用更新",
+      "download_update": "下载并更新",
       "never": "从不",
-      "none": "无"
+      "none": " "
     },
     "toggles": {
       "label": "设置",
@@ -50,7 +50,7 @@
     "thanks": "▼ Thanks to nadrino for cpp-generic-toolbox library\n▼ Thanks to Natinusala, xfangfang and XITRIX for borealis library\n▼ Thanks to HamletDuFromage (AIO-Switch-Updater) and PoloNX (SimpleModDownloader)\n▼ Special thanks to henry-debruin for creating nso-icons."
   },
   "download": {
-    "title": "下载解压图标中...",
+    "title": "下载图标库",
     "downloading": "下载中:",
     "waiting": "等待中:",
     "downloaded": "已下载:",
