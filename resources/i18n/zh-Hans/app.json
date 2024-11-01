@@ -13,16 +13,16 @@
     "new_icon": "新图标",
     "apply": "应用",
     "select_game": "选择游戏",
-    "available_images": "可用",
-    "collection_load": "旧图标",
+    "available_images": "可用图像",
+    "collection_load": "已添加图标",
     "confirm_delete": "删除"
   },
   "settings": {
     "title": "设置",
     "icon_cache": {
-      "label": "更新图标",
-      "yes": "已找到图标",
-      "no": "未找到图标",
+      "label": "更新图标库",
+      "yes": "已找到图标库",
+      "no": "未找到图标库",
       "last_checked": "最近检查: {}",
       "current_version": "当前版本: {} ({})",
       "check_updates": "检查更新",
