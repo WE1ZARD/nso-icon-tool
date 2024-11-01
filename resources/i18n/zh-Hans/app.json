@@ -24,7 +24,7 @@
       "yes": "已找到图标库",
       "no": "未找到图标库",
       "last_checked": "最近检查: {}",
-      "current_version": "当前版本: {} ({})",
+      "current_version": "最新版本: {} ({})",
       "check_updates": "检查更新",
       "update_available": "可用更新: {} ({})",
       "download_update": "下载并应用更新",
